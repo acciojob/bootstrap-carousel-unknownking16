@@ -1,1 +1,10 @@
 /* Do not add any css, this is a bootstrap only assignment  */
+ .carousel-inner > .item {
+            height: 400px;
+        }
+
+        .carousel-inner > .item img {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
